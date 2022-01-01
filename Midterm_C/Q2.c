@@ -3,7 +3,7 @@
 #include <stdio.h>
 #define INPUT "넓이: "
 #define OUTPUT1 "%.2f 제곱미터 == %.2f 평\n"
-#define OUTPUT2 "%.2f 평 == %.2 제곱미터\n"
+#define OUTPUT2 "%.2f 평 == %.f 제곱미터\n"
 #define OUTPUT3 "잘못된 입력입니다.\n"
 #define M2P 0.3025
 #define P2M 3.305785
